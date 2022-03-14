@@ -40,7 +40,7 @@
                 <!--primer gráfico figurativo-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow-sm">
-                        <img loading="lazy" src="ej-figurativa_01jpg" class="w-100" alt="describe lo que se ve en la imagen" />
+                        <img loading="lazy" src="img/ej-figurativa_01.jpg" class="w-100" alt="describe lo que se ve en la imagen" />
                         <figcaption class="p-3">Fuente: <a href="#">Indica la fuente</a>.</figcaption>
                     </figure>
                 </div>
